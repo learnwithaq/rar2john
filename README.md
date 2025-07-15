@@ -3,6 +3,7 @@
 Cracking Password Protected RAR file using rar2john.<br><br>
 Step-by-Step guide<br>
 <br>
+First we will create a sample RAR file with password protected using password 12345
 Archive <i><b>filename.txt</b></i> in <i><b>filename.rar</b></i> -p12345 is password<br>
 <pre> rar a -p12345 <i>filename.rar</i> > <i>filename.txt</i> </pre><br>
 
