@@ -1,6 +1,6 @@
 # rar2john
 
-Cracking Password Protected RAR file using rar2john.<br>
+Cracking Password Protected RAR file using rar2john.<br><br>
 Step-by-Step guide<br>
 <br>
 Archive <i><b>filename.txt</b></i> in <i><b>filename.rar</b></i> -p12345 is password<br>
